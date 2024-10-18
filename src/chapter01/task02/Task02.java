@@ -1,4 +1,4 @@
-package ru.mda.javacore.chapter01.task02;
+package chapter01.task02;
 
 import java.util.Scanner;
 
