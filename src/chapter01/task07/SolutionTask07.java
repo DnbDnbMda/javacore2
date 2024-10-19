@@ -22,7 +22,6 @@ public class SolutionTask07 {
     public short[] readDataFromConsole() {
         Scanner scanner = new Scanner(System.in);
         int count = 0;
-        int inputInt = 0;
         short[] result = new short[2];
         printMenu(count);
         while (scanner.hasNextLine()) {
